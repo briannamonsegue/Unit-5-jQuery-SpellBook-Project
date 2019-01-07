@@ -7,9 +7,8 @@ $("#button1").click(function(){
 
 
 //Spell #2
-
-$("      ").click(function(){
- 
+$("#button2").click(function(){
+    $(".img2").fadeOut();
 });
 
 

@@ -15,8 +15,8 @@ $("#button2").click(function(){
 
 //Spell #3
 
-$("      ").click(function(){
- 
+$("#button3").click(function(){
+ $(".img3").hide();
 });
 
 
